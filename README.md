@@ -2,7 +2,9 @@ Stupid easy badge issuer for AWS Beanstalk Evironments
 
 Issue GitHub badges for your Beanstalk evironments that look like this:
 
-![alt text](https://img.shields.io/badge/ElasticBeanstalk-Running-brightgreen.svg)
+![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Running_Version_0.0-brightgreen.svg)
+![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Updating_Version_0.0-lightgrey.svg)
+![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Down_Version_0.0-red.svg)
 
 ## Putting it up on Heroku
 
