@@ -1,8 +1,8 @@
 aws:
-	region: 'us-west-2'
-	access_key_id: 'YOUR ACCESS KEY'
-  	secret_access_key: 'YOUR SECRET ACCESS KEY'
-	environment:
-		id: 'yourEnvId'
+ region: "your regions"
+ access_key_id: "SOMEACCESSKEY"
+ secret_access_key: "SOMESECRETKEY"
+ environment:
+  id: "e-nvironmentid"
 options:
-	cachecontrol: 'clientCacheControl'
+ cachecontrol: "no-cache"
