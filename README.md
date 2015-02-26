@@ -6,6 +6,8 @@ Issue GitHub badges for your Beanstalk evironments that look like this:
 
 ![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Updating_Version_0.0-lightgrey.svg)
 
+![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Struggle City_Version_0.0-yellow.svg)
+
 ![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Down_Version_0.0-red.svg)
 
 ## Putting it up on Heroku
