@@ -1,0 +1,13 @@
+{
+  "name": "ebsbadger",
+  "description": "Retreive Environment Badges for AWS EBS",
+  "keywords": [
+    "sinatra",
+    "heroku",
+    "cedar",
+    "template"
+  ],
+  "website": "https://github.com/scottmotte/sinatra-heroku-cedar-template",
+  "repository": "https://github.com/scottmotte/sinatra-heroku-cedar-template",
+  "logo": "https://raw.githubusercontent.com/scottmotte/sinatra-heroku-cedar-template/master/sinatra-heroku-cedar-template.jpg"
+}
