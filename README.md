@@ -1,5 +1,8 @@
 Stupid easy badge issuer for AWS Beanstalk Evironments 
 
+Issue Badges that look like this 
+![alt text](https://img.shields.io/badge/ElasticBeanstalk-Running-brightgreen.svg)
+
 ## Putting it up on Heroku
 
 Deploy to Heroku by clicking this button.
