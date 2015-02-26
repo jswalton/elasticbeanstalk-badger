@@ -1,6 +1,6 @@
 Stupid easy badge issuer for AWS Beanstalk Evironments 
 
-Issue Badges that look like this:
+Issue GitHub badges for your Beanstalk evironments that look like this:
 
 ![alt text](https://img.shields.io/badge/ElasticBeanstalk-Running-brightgreen.svg)
 
