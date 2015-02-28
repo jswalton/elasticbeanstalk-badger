@@ -31,7 +31,7 @@ options:
 ```
 
 ```
-$ git clone git://github.com/scottmotte/sinatra-heroku-cedar-template.git
+$ git clone git://github.com/jswalton/elasticbeanstalk-badger.git
 $ gem install bundler
 $ bundle
 $ bundle exec foreman start
