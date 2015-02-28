@@ -18,6 +18,12 @@ Deploy to Heroku by clicking this button.
 
 ## Running it locally
 
+```
+$ git clone git://github.com/jswalton/elasticbeanstalk-badger.git
+$ gem install bundler
+$ bundle
+```
+
 Add AWS Credentials to properties.yml:
 ```
 aws:
@@ -31,9 +37,6 @@ options:
 ```
 
 ```
-$ git clone git://github.com/jswalton/elasticbeanstalk-badger.git
-$ gem install bundler
-$ bundle
 $ bundle exec foreman start
 ```
 
