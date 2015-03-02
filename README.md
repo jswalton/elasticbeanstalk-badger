@@ -4,11 +4,12 @@ Issue GitHub badges for your Beanstalk evironments that look like this:
 
 ![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Ready_Version_0.0-brightgreen.svg)
 
-![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Updating_Version_0.0-lightgrey.svg)
-
 ![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Ready_Version_0.0-yellow.svg)
 
 ![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Terminated_Version_0.0-red.svg)
+
+![alt text](http://img.shields.io/badge/Your%20Beanstalk%20Environment-Updating_Version_0.0-lightgrey.svg)
+
 
 ## Putting it up on Heroku
 
