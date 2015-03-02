@@ -24,6 +24,7 @@ get '/getEnvironmentBadge' do
 	imgrequest = Net::HTTP::Get.new(uri.request_uri)
 	imgresponse = http.request(imgrequest)
     content_type 'image/svg+xml'
-	cache_control settings.options['cachecontrol']
-	imgresponse.body             # => The body (HTML, XML, blob, whatever)  
+	cache_control settings.options['cachecontrol'] #Cache Control to control caching of badge by github, etc. 
+	etag Time.now.utc, :new_resource => true, :kind => :weak #Create etag to battle aggressive caching by GitHub. TODO: Configuration to decide how often we cache badges
+	imgresponse.body             # return the badge
 end
