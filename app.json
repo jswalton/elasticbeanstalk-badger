@@ -2,10 +2,11 @@
   "name": "elasticbeanstalk-badger",
   "description": "Retreive Environment Badges for AWS EBS",
   "keywords": [
-    "sinatra",
-    "heroku",
-    "cedar",
-    "template"
+    "elastic beanstalk",
+    "badges",
+    "github",
+    "environment",
+    "status"
   ],
   "website": "https://github.com/jswalton/elasticbeanstalk-badger",
   "repository": "https://github.com/jswalton/elasticbeanstalk-badger"
